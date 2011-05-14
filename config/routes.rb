@@ -45,7 +45,7 @@ Agenda::Application.routes.draw do
   #   namespace :admin do
   #     # Directs /admin/products/* to Admin::ProductsController
   #     # (app/controllers/admin/products_controller.rb)
-  #     resources :products
+  #     resources :products     TormenT
   #   end
 
   # You can have the root of your site routed with "root"
