@@ -33,10 +33,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/contatos/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="70" selection-start="609" selection-end="609" vertical-scroll-proportion="-15.038462">
+            <state line="16" column="45" selection-start="279" selection-end="279" vertical-scroll-proportion="0.53333336">
               <folding />
             </state>
           </provider>
@@ -69,10 +69,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="39" selection-start="1380" selection-end="1380" vertical-scroll-proportion="0.7779851">
+            <state line="39" column="30" selection-start="1111" selection-end="1111" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -112,10 +112,10 @@
         <option value="$PROJECT_DIR$/app/views/contatos/_form.html.erb" />
         <option value="$PROJECT_DIR$/config/initializers/paperclip.rb" />
         <option value="$PROJECT_DIR$/app/views/contatos/show.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/contatos/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/contatos/edit.html.erb" />
         <option value="$PROJECT_DIR$/app/views/contatos/new.html.erb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/views/contatos/index.html.erb" />
       </list>
     </option>
   </component>
@@ -588,13 +588,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/contatos/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="70" selection-start="609" selection-end="609" vertical-scroll-proportion="-15.038462">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/contatos/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="34" column="19" selection-start="474" selection-end="474" vertical-scroll-proportion="-15.730769">
@@ -632,7 +625,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="39" selection-start="1380" selection-end="1380" vertical-scroll-proportion="0.7779851">
+        <state line="39" column="30" selection-start="1111" selection-end="1111" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/contatos/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="45" selection-start="279" selection-end="279" vertical-scroll-proportion="0.53333336">
           <folding />
         </state>
       </provider>
