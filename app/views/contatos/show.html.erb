@@ -1,0 +1,35 @@
+<p id="notice"><%= notice %></p>
+
+<P>
+  <b>Foto</b><br />
+  <%= image_tag @contato.avatar.url(:thumb) %>
+</P>
+
+<p>
+  <b>Nome completo:</b>
+  <%= @contato.nome_completo %>
+</p>
+
+<p>
+  <b>Telefone:</b>
+  <%= @contato.telefone %>
+</p>
+
+<p>
+  <b>Celular:</b>
+  <%= @contato.celular %>
+</p>
+
+<p>
+  <b>Grupo:</b>
+  <%= @contato.grupo %>
+</p>
+
+<p>
+  <b>Aniversario:</b>
+  <%= @contato.aniversario %>
+</p>
+
+
+<%= link_to 'Editar', edit_contato_path(@contato) %> |
+<%= link_to 'Voltar', contatos_path %>
